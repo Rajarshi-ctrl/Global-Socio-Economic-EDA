@@ -351,7 +351,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Rajarshi Dutta**  
 Data Analyst | Python | SQL | Power BI  
 
-📧 Email: [Your Email]  
+📧 Email: drajarshi01@gmail.com  
 💼 LinkedIn: [linkedin.com/in/rajarshidutta99](https://linkedin.com/in/rajarshidutta99)  
 🌐 Portfolio: [rajarshi.vercel.app](https://rajarshi.vercel.app/)  
 💻 GitHub: [github.com/Rajarshi-ctrl](https://github.com/Rajarshi-ctrl)  
